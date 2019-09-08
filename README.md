@@ -1,5 +1,5 @@
 # Othello-bot
- Simple Othello bot coded in C++. Came in 7th place out of 400 in a class-wide tournament between other Othello bots!
+ Simple Othello bot coded in C++. Came in 7th place out of over 400 in a class-wide tournament between other Othello bots!
  
  ---
  
