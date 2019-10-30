@@ -3,4 +3,4 @@
  
  ---
  
- The bot is coded utilizing a recursive min-max algorithm that does a depth first search on the game's *game tree*, which is a search tree of all possible game states to a depth of 3 moves into the future.
+ The bot is coded utilizing a recursive min-max algorithm that does a depth first search on the game's *game tree*, which is a search tree of all possible game states to a depth of 6 moves into the future.
